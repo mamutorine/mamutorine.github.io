@@ -15,4 +15,5 @@ table .experience{
     border-bottom: none !important;
     padding: .75em .75em;
     text-align: justify;
+    border-right:2px solid blue
 }
