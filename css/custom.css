@@ -5,3 +5,14 @@ body{
     font-weight: 300;
 /*     color:red; */
     }
+
+table .experience{
+    width:100%;
+  
+}
+
+.experience td{
+    border-bottom: none !important;
+    padding: .75em .75em;
+    text-align: justify;
+}
