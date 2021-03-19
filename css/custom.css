@@ -18,6 +18,7 @@ table .experience{
     
 }
 
-.sep{
-    height:1px;
+hr{
+    height:2px;
+    margin: 0 !important;
 }
