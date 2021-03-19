@@ -42,23 +42,26 @@ hr{
 }
 
 .button-ghost{
-    border: 2px solid #cc0099;
-    color: #cc0099;
+    border: 2px solid #cc3399;
+    color: #cc3399;
 }
 .hero-inner em {
-    color: #cc0099;
+    color: #cc3399;
 }
 .logo span {
-    color: #cc0099;
+    color: #cc3399;
 }
 a {
-    color: #cc0099;
+    color: #cc3399;
     text-decoration: none;
 }
 .post .read-more {
-    color: #cc0099;
+    color: #cc3399;
 }
 
 button, input[type="button"], input[type="reset"], input[type="submit"], .button, .toggle-navbar-button {
 /*     background-color: #ff99e6; */
+}
+Style Attribute {
+    fill: #cc3399;
 }
