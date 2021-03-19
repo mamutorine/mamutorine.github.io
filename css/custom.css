@@ -4,7 +4,7 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
 /*     color:red; */
-/*     border-top: 5px solid #f5d6eb; */
+    border-top: 5px solid #521fb8;
     }
 
 table .experience{
@@ -21,7 +21,7 @@ table .experience{
 
 hr{
     margin: revert;
-    border-bottom: 2px solid #474299;
+    border-bottom: 2px solid #521fb8;
     border-top: 2;
 }
 
@@ -41,26 +41,26 @@ hr{
     padding-right: 1.5em;
 }
 .button-ghost{
-    border: 2px solid #474299;
+    border: 2px solid #521fb8;
     color: #474299;
 }
 .hero-inner em {
-    color: #474299;
+    color: #521fb8;
 }
 .logo span {
-    color: #474299;
+    color: #521fb8;
 }
 a {
-    color: #474299;
+    color: #521fb8;
     text-decoration: none;
 }
 .post .read-more {
-    color: #cc3399;
+    color: #521fb8;
 }
 
 button, input[type="button"], input[type="reset"], input[type="submit"], .button, .toggle-navbar-button {
 /*     background-color: #ff99e6; */
  }
 svg {
-    fill: #f5d6eb;
+    fill: #521fb8;
 } 
