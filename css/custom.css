@@ -79,6 +79,6 @@ a hover{
 .botton {
 /*     fill: #ea936c; */
 }
-.toggle-navbar-button {
+.button:hover {
     background-color: #ea936c;
 }
