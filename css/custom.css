@@ -14,7 +14,7 @@ table .experience{
 .experience td{
     border-bottom: none !important;
     padding: .75em .75em;
-    text-align: justify;
+    text-align: inherit;
     
 }
 
