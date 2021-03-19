@@ -72,7 +72,10 @@ a {
 .post .read-more {
     color: #ea936c;
 }
-
+small {
+    font-size: 70%;
+    opacity: 1;
+}
 a:hover{
 /*     background-color: #ea936c;  */
  } 
