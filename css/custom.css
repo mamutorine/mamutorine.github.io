@@ -19,7 +19,7 @@ table .experience{
 }
 
 hr{
-    margin: 0 1 0 0 !important;
+    margin: revert;
     border-bottom: 2px solid blue;
     border-top: 2;
 }
