@@ -44,7 +44,8 @@ hr{
     padding-right: 1.5em;
 }
 .hero-inner h1 {
-    color:#020148
+    color:#020148;
+    opacity:100%;
 }
 .button-ghost{
     border: 2px solid #ffc2a3;
