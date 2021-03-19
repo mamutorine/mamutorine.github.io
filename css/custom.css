@@ -73,7 +73,7 @@ a {
     color: #ea936c;
 }
 
-a hover{
+a:hover{
     background-color: #ea936c; 
  } 
 .botton {
