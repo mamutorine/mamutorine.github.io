@@ -60,7 +60,8 @@ hr{
     color: #020148;
 }
 a {
-    color: #020148;
+/*     color: #020148; */
+    color: #ffc2a3;
     text-decoration: none;
 }
 .post .read-more {
