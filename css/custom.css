@@ -79,6 +79,6 @@ a hover{
 .botton {
 /*     fill: #ea936c; */
 }
-button, input[type="button"], input[type="reset"], input[type="submit"], .button, .toggle-navbar-button {
+.toggle-navbar-button {
     background-color: #ea936c;
 }
