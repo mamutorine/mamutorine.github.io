@@ -14,7 +14,9 @@ table .experience{
     width:100%;
   
 }
-
+.site-header a {
+    color: #020148;
+}
 .experience td{
     border-bottom: none !important;
     padding: .75em .75em;
