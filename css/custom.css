@@ -48,6 +48,11 @@ hr{
 .hero-inner h1 {
     color:#020148;
     opacity:100%;
+    margin-bottom:1em;
+}
+hero-inner h3 {
+    font-size: 1.25rem;
+    margin: .8em auto .2em;
 }
 .button-ghost{
     border: 2px solid #ffc2a3;
