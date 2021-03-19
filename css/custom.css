@@ -4,6 +4,7 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
 /*     color:red; */
+    border-top: 5px solid #cc0099;
     }
 
 table .experience{
