@@ -44,3 +44,6 @@ hr{
     border: 2px solid #cc0099;
     color: #cc0099;
 }
+hero-inner em {
+    color: #cc0099;
+}
