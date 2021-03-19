@@ -42,7 +42,7 @@ hr{
 }
 
 .button-ghost{
-    border: 2px solid #cc3399;
+    border: 2px solid #333399;
     color: #cc3399;
 }
 .hero-inner em {
@@ -52,7 +52,7 @@ hr{
     color: #cc3399;
 }
 a {
-    color: #cc3399;
+    color: #333399;
     text-decoration: none;
 }
 .post .read-more {
