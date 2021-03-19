@@ -50,7 +50,7 @@ hr{
     opacity:100%;
     margin-bottom:.5em;
 }
-hero-inner h3 {
+.hero-inner h3 {
     font-size: 1.25rem;
     margin: .4em auto .2em;
 }
