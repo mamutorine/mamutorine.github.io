@@ -54,6 +54,7 @@ hr{
 .hero-inner h3 {
     font-size: 1.25rem;
     margin: .8em auto 1em;
+    color:#020148;
 }
 .button-ghost{
     border: 2px solid #ffc2a3;
