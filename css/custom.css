@@ -6,7 +6,10 @@ body{
 /*     color:red; */
     border-top: 5px solid #ffc2a3;
     }
-
+.hero-inner .dot {
+    padding: 5px;
+    border: 1px solid #ffc2a3;
+}
 table .experience{
     width:100%;
   
