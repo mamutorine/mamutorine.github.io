@@ -4,7 +4,7 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 300;
 /*     color:red; */
-    border-top: 5px solid #cc0099;
+    border-top: 5px solid #f5d6eb;
     }
 
 table .experience{
@@ -63,5 +63,5 @@ button, input[type="button"], input[type="reset"], input[type="submit"], .button
 /*     background-color: #ff99e6; */
 }
 Style Attribute {
-    fill: #cc3399;
+    fill: #f5d6eb;
 }
