@@ -39,3 +39,8 @@ hr{
     padding-left: 1.5em;
     padding-right: 1.5em;
 }
+
+.button-ghost{
+    border: 2px solid #cc0099;
+    color: #cc0099;
+}
