@@ -92,3 +92,6 @@ a:hover{
 .navbar a:hover, .navbar a:focus {
     color: #ea936c;
 }
+.navbar a:hover, .navbar a:focus {
+    opacity: 1;
+}
