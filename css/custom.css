@@ -23,7 +23,9 @@ table .experience{
     text-align: inherit;
     
 }
-
+.site-header .logo, .site-header a {
+    text-transform: none !important!;
+}
 hr{
     margin: revert;
     border-bottom: 2px solid #ffc2a3;
