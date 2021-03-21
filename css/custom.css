@@ -89,3 +89,7 @@ a:hover{
 .button:hover {
     background-color: #ea936c;
 }
+@media screen and (min-width: 768px)
+.navbar a:hover, .navbar a:focus {
+    color: #ea936c;
+}
