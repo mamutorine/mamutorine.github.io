@@ -24,7 +24,7 @@ table .experience{
     
 }
 .site-header .logo, .site-header a {
-    text-transform: none !important!;
+    text-transform: capitalize;
 }
 hr{
     margin: revert;
