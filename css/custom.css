@@ -95,3 +95,21 @@ a:hover{
 .navbar a:hover, .navbar a:focus {
     opacity: 1;
 }
+.researcht td{
+    border: 1px solid #ea936c;
+    padding: 10px;
+    color: #020148;
+}
+.researcht tr{
+    border: 1px solid #ea936c;
+    padding: 10px;
+    color: #020148;
+}
+.res-title{
+    color: #020148;
+    font-weight:400;
+}
+
+.post-list .post a:hover {
+    color: #ea936c;
+}
