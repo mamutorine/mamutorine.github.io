@@ -113,3 +113,7 @@ a:hover{
 .post-list .post a:hover {
     color: #ea936c;
 }
+.dot{
+    width: 180px;
+    height: 180px;
+}
