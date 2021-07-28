@@ -1,0 +1,17 @@
+*{
+    color: #003366;
+    /* color: #000066; */
+    /* background-color: aquamarine; */
+    background-color: #d6f5f5;
+}
+.background{
+    /* background-color: aquamarine; */
+    background-color: #d6f5f5;
+}
+a{
+    /* color: orangered; */
+    color: #cc6600;
+}
+ul li{
+    list-style: none !important;
+}
