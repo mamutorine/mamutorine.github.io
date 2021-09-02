@@ -23,4 +23,15 @@ ul li{
 .connect li{
     text-align:center !important;
 }
- 
+
+#counter, #navigation a{
+    color: #cc6600 !important;
+}
+
+.social{
+    border-bottom:none !important;
+}
+
+.social a:hover{
+    color: #cc6600;
+}
