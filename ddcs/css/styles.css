@@ -19,3 +19,7 @@ a{
 ul li{
     list-style: none !important;
 }
+
+.connect{
+    text-align:center;
+}
