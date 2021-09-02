@@ -32,6 +32,6 @@ ul li{
     text-align:center;
 }
 
-.social a:hover{
+.fa-twitter:hover {
     color: #cc6600;
 }
