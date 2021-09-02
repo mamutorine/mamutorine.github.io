@@ -14,7 +14,7 @@ a{
 }
 .flexblock a{
     /* color: orangered; */
-    color: #cc6600;
+    color: #cc6600 !important;
 }
 ul li{
     list-style: none !important;
