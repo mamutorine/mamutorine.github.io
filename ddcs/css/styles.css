@@ -29,7 +29,7 @@ ul li{
 }
 
 .social{
-    border-bottom:none !important;
+    text-align:center;
 }
 
 .social a:hover{
