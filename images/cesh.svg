@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_2" viewBox="0 0 220.91 198.48">
+  <defs>
+    <style>.cls-1{stroke-width:5px;}.cls-1,.cls-2{stroke-linecap:round;stroke-linejoin:round;}.cls-1,.cls-2,.cls-3{fill:none;stroke:#514f4f;}.cls-2{stroke-width:4px;}.cls-3{stroke-miterlimit:10;stroke-width:4.25px;}</style>
+  </defs>
+  <g id="Layer_2-2">
+    <path class="cls-3" d="m152.31,2.12h-83.71c-8.8,0-16.93,4.69-21.33,12.31L5.42,86.93c-4.4,7.62-4.4,17.01,0,24.63l41.85,72.49c4.4,7.62,12.53,12.31,21.33,12.31h83.71c8.8,0,16.93-4.69,21.33-12.31l41.85-72.49c4.4-7.62,4.4-17.01,0-24.63L173.63,14.44c-4.4-7.62-12.53-12.31-21.33-12.31Z"></path>
+    <g>
+      <g>
+        <line class="cls-2" x1="166.05" y1="72.65" x2="177.92" y2="70.86"></line>
+        <line class="cls-2" x1="117.09" y1="92.82" x2="137.15" y2="81.33"></line>
+        <line class="cls-2" x1="85.68" y1="120.01" x2="108.99" y2="98.92"></line>
+        <line class="cls-2" x1="49.28" y1="137.46" x2="77.95" y2="125.89"></line>
+        <circle class="cls-2" cx="44.77" cy="139.28" r="4.87"></circle>
+        <circle class="cls-2" cx="81.64" cy="122.73" r="4.87"></circle>
+        <circle class="cls-2" cx="124.65" cy="152.62" r="4.87"></circle>
+        <circle class="cls-2" cx="56.29" cy="69.59" r="4.87"></circle>
+        <circle class="cls-2" cx="76.78" cy="100.21" r="4.87"></circle>
+        <circle class="cls-2" cx="60.75" cy="114.99" r="7.49"></circle>
+        <circle class="cls-2" cx="103.45" cy="132.46" r="9.98"></circle>
+        <circle class="cls-2" cx="170.43" cy="94.05" r="7.49"></circle>
+        <circle class="cls-2" cx="112.93" cy="73.25" r="7.49"></circle>
+        <circle class="cls-2" cx="112.93" cy="95.34" r="4.87"></circle>
+        <circle class="cls-2" cx="152.3" cy="105.8" r="4.87"></circle>
+        <path class="cls-2" d="m178.62,70.02c0-2.69,2.18-4.87,4.87-4.87s4.87,2.18,4.87,4.87-2.18,4.87-4.87,4.87-4.87-2.18-4.87-4.87"></path>
+      </g>
+      <g>
+        <path class="cls-1" d="m168.44,64.71c-.04,3.56-1.41,7.05-3.6,10.1-4.09,5.72-9.34,10.26-15.31,13.94-.67.41-2.03.45-2.68.04-6.4-4.01-12.03-8.89-16.24-15.24-2.01-3.02-3.27-6.4-2.98-10.03.24-3.1,1.55-6.11,3.95-8.15,2.07-1.77,4.82-2.87,7.55-2.92,3.14-.06,5.62,1.68,8.11,3.39.93.64,1.48.51,2.29-.15,1.91-1.54,4.31-3.13,6.84-3.26,4.12-.21,8.55,1.95,10.49,5.68,1.12,2.16,1.6,4.39,1.58,6.6Z"></path>
+        <polyline class="cls-1" points="142.03 70.28 147.38 75.46 157.81 63.72"></polyline>
+      </g>
+    </g>
+  </g>
+</svg>
